@@ -1,0 +1,18 @@
+body{
+	background-image: url("ep_naturalwhite.png");
+}
+h2{
+	color: #733530;
+	font-family: 'Rubik Mono One', sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+fieldset{
+	border-style: dashed;
+	color: #733530
+
+}
+legend{
+	font-family: 'Muli', sans-serif;
+	font-size:25px;
+}
